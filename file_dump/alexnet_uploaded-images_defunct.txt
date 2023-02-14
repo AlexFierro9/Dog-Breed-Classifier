@@ -1,0 +1,15 @@
+Command Line Arguments:
+     dir = uploaded_images 
+    arch = alexnet 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 8 key-value pairs.
+Below are 8 of them:
+ 1 key:            run_models_batch.sh  label:                 run models
+ 2 key:             vgg_pet-images.txt  label:                        vgg
+ 3 key:         alexnet_pet-images.txt  label:                    alexnet
+ 4 key:                   Horse_01.jpg  label:                      horse
+ 5 key:                     Car_01.jpg  label:                        car
+ 6 key:          resnet_pet-images.txt  label:                     resnet
+ 7 key:                     Dog_02.jpg  label:                        dog
+ 8 key:                     Dog_01.jpg  label:                        dog

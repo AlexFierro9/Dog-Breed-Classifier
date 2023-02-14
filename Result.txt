@@ -1,0 +1,9 @@
+#total Images = 40
+#dog Images = 30 
+#not-a-dog Images = 10
+
+                     resnet          vgg        alexnet
+pct_correct_dogs:    100.0          100.0        100.0
+pct_match:            82.5           87.5         75.0
+pct_correct_breed:    90.0           93.3         80.0
+pct_correct_notdogs:  90.0          100.0        100.0
